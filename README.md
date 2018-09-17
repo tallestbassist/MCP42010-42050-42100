@@ -5,6 +5,7 @@ This is my take on how to control the MCP42010 MCP42050 and MCP42100 with an enc
 
 
   Pins:
+  
   MCP42***  <->   Arduino
   
   (1.  CS    <->  10. CS) (can be assinged to any pin but mostly first one is used as pin 10 since its close to the others)
