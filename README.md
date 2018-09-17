@@ -1,5 +1,4 @@
 # MCP42010-42050-42100
-Arudino code for controlling the MCP42*** with a rotary encoder
 
 This is my take on how to control the MCP42010 MCP42050 and MCP42100 with an encoder through an ardunio board.
 
@@ -16,6 +15,7 @@ This is my take on how to control the MCP42010 MCP42050 and MCP42100 with an enc
   
   (13. SO    <->  12. MISO)  (not actually sure if this is needed for this chip)
 
+(Mega and some others use different pins - always check you boards connections)
 
 NOTE: This is example how to control multiple digipots but i havent gotten it to work with multiple encoders.
 
